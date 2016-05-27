@@ -20,3 +20,13 @@ h3 {
 p{
    margin-bottom: 10em;
 }
+
+img.resize {
+  width:360px;
+  height:auto;
+}
+
+.margin {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
