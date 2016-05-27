@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE-edge">
+      <meta-name="viewport" content="width=device-width, initial-scale-1">
+      <title>Tim's Portfolio</title>
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <script type="text/javascript" src="js/jquery-1.12.0.js"></script>
+      <script type="text/javascript" src="ja/bootstrap.min.js"></script>
+   </head>
+   <body>
+     <div class="container">
+       <div class="row">
+          <div class="col-md-6">
+           <img src="http://lorempixel.com/image_output/abstract-q-g-200-200-9.jpg" alt="Udacity logo">
+          </div>
+          <div class="col-md-6 text-right text-uppercase">
+             <h1>Tim Jung</h1>
+             <h4>Front-end Ninja</h4>
+          </div>
+       </div>
+       <div class="row">
+          <div class="col-md-12">
+             <hr>
+          </div>
+       </div>
+       <div class="row">
+          <div class="col-md-12">
+             <img  class="img-responsive" src="http://dummyimage.com/1066x400/000/fff" alt="Main puppy image">
+          </div>
+       </div>
+       <div class="row">
+          <div class="col-md-12">
+             <h2>Featured Work</h2>
+          </div>
+       </div>
+       <div class="row">
+          <div class="col-md-4">
+             <img class="img-responsive" src="http://lorempixel.com/image_output/sports-q-c-300-300-5.jpg" alt="phimage">
+             <h3 class="text-uppercase">Appify</h3>
+             <p>https://github.com/udacity/appify</p>
+          </div>
+          <div class="col-md-4">
+             <img class="img-responsive" src="http://lorempixel.com/image_output/nightlife-q-c-300-300-1.jpg" alt="phimage">
+             <h3 class="text-uppercase">Sunflower</h3>
+             <p>https://github.com/udacity/appify</p>
+          </div>
+          <div class="col-md-4">
+             <img class="img-responsive" src="http://lorempixel.com/image_output/city-q-c-300-300-10.jpg" alt="phimage">
+             <h3 class="text-uppercase">Bokeh</h3>
+             <p>https://github.com/udacity/appify</p>
+          </div>
+       </div>
+    </div>
+   </body>
+ </html>
