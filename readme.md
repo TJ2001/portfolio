@@ -30,4 +30,6 @@ _HTML, CSS, Jquery, Javascript_
 
 *Under MIT license.*
 
-Copyright (c) 2016 **_TJ2001_**
+_https://github.com/TJ2001_
+
+_Copyright (c) 2016 **_TJ2001_
